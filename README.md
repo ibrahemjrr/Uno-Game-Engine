@@ -1,4 +1,4 @@
-# Uno Game Engine - Atypon Training Assignment May/2023
+# Uno Game Engine - Atypon Training Assignment June-July/2023
 
 ![](https://github.com/ibrahemjrr/UnoGame_IbrahemJaradat/blob/master/unnamed.png)
 
